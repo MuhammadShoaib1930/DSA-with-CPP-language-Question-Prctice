@@ -1,3 +1,6 @@
-3
-6
-0 0 1 0 1 0
+xyz
+xyza
+4
+kitten
+sitting
+10
